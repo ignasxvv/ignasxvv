@@ -1,8 +1,9 @@
 ### Hi there 👋
+I am Ignas, An Electrical and Computer Engineering candidate at [CWRU](https://www.case.edu)
 
-- 🌱 Creative coding with large data sampling 
-- ⚡ High-Performance Computing (HPC)
-- ⚡ Currently doing data structures and algorithms
+Currently, I am into:
+- ⚡ Distributed systems and High-Performance Computing (HPC)
+- ⚡ Data Structures and Algorithms
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ignasxv&langs_count=5&theme=tokyonight)]()
