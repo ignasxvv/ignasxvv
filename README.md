@@ -6,4 +6,4 @@ Currently, I am into:
 - ⚡ Data Structures and Algorithms
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ignsxv&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ignasxv&langs_count=5&theme=tokyonight)]()
