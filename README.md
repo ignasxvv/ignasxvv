@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Ignas, An Electrical and Computer Engineering candidate at [CWRU](https://www.case.edu)
+I am Ignas, An Electrical Engineering and Computer Science candidate at [CWRU](https://www.case.edu)
 
 Currently, I am into:
 - ⚡ Distributed systems and High-Performance Computing (HPC)
