@@ -6,4 +6,4 @@ Currently, I am into:
 - ⚡ Data Structures and Algorithms
 - ⚡ Just Started Experimenting with React
 
-[![My GitHub Language Stats](github-readme-stats-bn43vh5sb-ignasxv-projects.vercel.app/api/top-langs/?username=ignasxv&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](github-readme-stats-six-flax-51.vercel.app/api/top-langs/?username=ignasxv&langs_count=5&theme=tokyonight)]()
