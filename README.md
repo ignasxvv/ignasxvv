@@ -5,7 +5,7 @@ Currently, I am into:
 - ⚡ Distributed systems and High-Performance Computing (HPC) 
 - ⚡ Learning to implement Data Structures and Algorithms from scratch
 - ⚡ Quantitative finance
-   > check [hello-QUANT repo](https://github.com/ignasxv/hello-quant)
+   > check [hello-QUANT repo](https://github.com/ignasxvv/hello-quant)
 - ⚡ Building Hardware Interfaces
    > check [hello-FPGA repo](https://github.com/ignasxv/hello-FPGA)
 
