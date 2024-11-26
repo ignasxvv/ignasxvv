@@ -10,5 +10,5 @@ Currently, I am into:
    > check [hello-FPGA repo](https://github.com/ignasxv/hello-FPGA)
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ignas&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ignasxv&langs_count=5&theme=tokyonight)]()
 
